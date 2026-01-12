@@ -9,6 +9,7 @@
 4. Clicar em "Login"
 
 **Resultado esperado:** Login realizado com sucesso
+**Status:** Passou
 
 ---
 
@@ -20,4 +21,7 @@
 3. Inserir senha inválida
 4. Clicar em "Login"
 
-**Resultado esperado:** Exibir mensagem de erro
+**Resultado esperado:** Login com senha inválida
+**Resultado obtido:** Mensagem exibida corretamente  
+**Status:** Passou
+
