@@ -8,7 +8,8 @@
 3. Inserir senha válida
 4. Clicar em "Login"
 
-**Resultado esperado:** Login realizado com sucesso
+**Resultado esperado:** Sistema deve permitir o acesso do usuário  
+**Resultado obtido:** Login realizado com sucesso  
 **Status:** Passou
 
 ---
@@ -21,7 +22,7 @@
 3. Inserir senha inválida
 4. Clicar em "Login"
 
-**Resultado esperado:** Login com senha inválida
+**Resultado esperado:** Sistema deve exibir mensagem de erro informando credenciais inválidas  
 **Resultado obtido:** Mensagem exibida corretamente  
 **Status:** Passou
 
