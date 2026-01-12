@@ -1,20 +1,26 @@
-# Relatório de Bugs
+# Relatório de Bugs – Projeto 01
 
-## Bug 01 – Mensagem de erro não exibida no login
+## Resumo
+Durante a execução dos testes funcionais na funcionalidade de login da aplicação, não foram identificados defeitos que comprometessem o funcionamento esperado do sistema.
 
-**ID:** BUG-01  
-**Severidade:** Alta  
-**Prioridade:** Alta  
-**Ambiente:** Chrome / Windows  
+---
 
-**Passos para reproduzir:**
-1. Acessar tela de login
-2. Inserir usuário válido
-3. Inserir senha inválida
-4. Clicar em Login
+## Funcionalidades testadas
+- Login com dados válidos
+- Login com senha inválida
 
-**Resultado esperado:** Mensagem de erro exibida  
-**Resultado obtido:** Nenhuma mensagem exibida  
+---
 
-**Evidência:** print anexado
-<img width="430" height="360" alt="image" src="https://github.com/user-attachments/assets/28703d1d-7ddc-4109-88d2-8d81541dd42e" />
+## Resultado
+Todos os casos de teste executados foram concluídos com sucesso, atendendo aos critérios de aceite definidos.
+
+---
+
+## Observações
+Apesar de não terem sido encontrados bugs, recomenda-se a continuidade dos testes em outros cenários, como campos vazios, caracteres especiais e testes exploratórios, para ampliar a cobertura de testes.
+
+---
+
+**Status geral:** Sem bugs encontrados  
+**Responsável:** Veronica Batista 
+**Data:** Janeiro/2026
