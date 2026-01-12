@@ -73,5 +73,5 @@ Este plano de testes deve ser aprovado pela equipe responsável antes do início
 
 ---
 
-**Responsável:** Veronica Barreira  
+**Responsável:** Veronica Batista  
 **Data:** Janeiro/2026
