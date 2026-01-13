@@ -25,4 +25,7 @@
 **Resultado esperado:** Sistema deve exibir mensagem de erro informando credenciais inválidas  
 **Resultado obtido:** Mensagem exibida corretamente  
 **Status:** Passou
+### Evidência
+![Mensagem de erro – senha inválida](evidencias/login_senha_invalida_mensagem_erro.png)
+
 
