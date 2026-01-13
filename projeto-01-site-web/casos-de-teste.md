@@ -11,8 +11,8 @@
 **Resultado esperado:** Sistema deve permitir o acesso do usuário  
 **Resultado obtido:** Login realizado com sucesso  
 **Status:** Passou
-## Evidências
-- evidencias/login_senha_valida_mensagem_erro.png
+### Evidência
+![Mensagem de erro – senha válida](evidencias/login_senha_valida_mensagem_erro.png)
 
 
 ---
