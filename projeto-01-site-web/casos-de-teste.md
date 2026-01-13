@@ -12,7 +12,7 @@
 **Resultado obtido:** Login realizado com sucesso  
 **Status:** Passou
 ### Evidência
-![Mensagem de erro – senha valida](evidencias/login_senha_valida_mensagem_erro.png)
+![Mensagem de erro – senha valida](evidencias/login_senha_valida_mensagem.png)
 
 
 ---
